@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "303679458818",
+    "project_id": "meal-monkey-ae713",
+    "storage_bucket": "meal-monkey-ae713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303679458818:android:e96dde703a17a60250611b",
+        "android_client_info": {
+          "package_name": "com.drivermonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303679458818-raff12ojeappe1k3l8q2qs6ph4u4l1oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drivermonkey",
+            "certificate_hash": "6e3dd010853b65609d41f59659c81f3c26491e3e"
+          }
+        },
+        {
+          "client_id": "303679458818-nqgt8bf2k1q186222f4qj3koqu6589jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwma-E7LAqxb8805BQjk_1Tk1nQ1l6_Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303679458818-nqgt8bf2k1q186222f4qj3koqu6589jk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303679458818-js8gjqg2tf6f34g1211mk3apa8dbijad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shoqeen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303679458818:android:17c83b8b967e84c050611b",
+        "android_client_info": {
+          "package_name": "com.mealmonkey.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303679458818-t7lgl9i6m4qjg9p0ik1t01f6kacb74ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mealmonkey.com",
+            "certificate_hash": "6e3dd010853b65609d41f59659c81f3c26491e3e"
+          }
+        },
+        {
+          "client_id": "303679458818-nqgt8bf2k1q186222f4qj3koqu6589jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwma-E7LAqxb8805BQjk_1Tk1nQ1l6_Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303679458818-nqgt8bf2k1q186222f4qj3koqu6589jk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303679458818-js8gjqg2tf6f34g1211mk3apa8dbijad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shoqeen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
